@@ -5,6 +5,10 @@ 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
 ````
 ==============================================
 Comandos:
+```bash
+chmod +x att.sh
+````
 
-- chmod +x plwatualizar.sh
-- ./plwatualizar.sh
+```bash
+- ./att.sh
+````
